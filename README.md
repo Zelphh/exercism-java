@@ -43,6 +43,12 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - PORÉM, sem utilizar `java.lang.Math` ou qualquer biblioteca auxiliar.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/square-root
 
+## Space Age (SpaceAge)
+
+- Dada uma idade em segunos, pode se calcular o quão velho alguém seria nos oito planetas do sistema solar.
+- Há uma função para cada planeta, cada uma retornando um `double` como resposta.
+- <p>link do exercício: https://exercism.org/tracks/java/exercises/space-age
+
 # Técnologias usadas:
 
 ![NPM](https://img.shields.io/badge/JAVA-FFA500)  ![NPM](https://img.shields.io/badge/ECLIPSE_IDE-0D214F)
