@@ -47,6 +47,16 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - Se for um ano bissexto, retorna `true` caso contrário retorna `false`.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/leap
 
+## Luhn (LuhnValidator)
+
+- Dado um número, a função determina se ele é válido ou não pelo algoritmo de Luhn.
+- O algoritmo Luhn é uma fórmula simples de verificação usando soma de digitos específicos.
+- É um algoritimo usado para validar uma variedade de números de identificação, como:
+  - Números de cartão de crédito;
+  - Números de seguro social canadense.
+- Retorna `true` se a `String` for válida e `false` caso seja inválida.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/luhn
+
 ## Raindrops (RaindropConverter)
 
 - Converte um número natural (1, 2, 3, ...) em uma `String` que contenha sons de gotas de chuva.
