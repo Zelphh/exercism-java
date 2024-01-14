@@ -13,6 +13,13 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - Exercício classico! Apenas uma função que retorne a String `"Hello, World!"`.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/hello-world
 
+## Hamming (Hamming)
+
+- Calcula a distância de Hamming entre duas linhas de DNA.
+- Comparando duas cadeias de DNA e contando as diferenças entre elas, teremos a Distância de Hamming.
+- A Distância de Hamming é útil para muitas coisas na ciência, além da biologia, por isso é uma boa frase para se familiarizar.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/hamming
+
 ## Karl's Languages (LanguageList)
 
 - Exercício que exige a criação de funções para editar uma lista de linguagens de programação a serem aprendidas por Karl.
@@ -30,6 +37,13 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - Se for um ano bissexto, retorna `true` caso contrário retorna `false`.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/leap
 
+## Raindrops (RaindropConverter)
+
+- Converte um número natural (1, 2, 3, ...) em uma `String` que contenha sons de gotas de chuva.
+- Cada som é correspondente a certos fatores do número.
+- Se o número não se encaixar em nenhum fato, a função apenas retorna o próprio número.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/raindrops
+
 ## Salary Calculator (SalaryCalculator)
 
 - Utiizando dos dias que o funcionário faltou, calcula se ele terá alguma penalização em seu slario.
@@ -37,17 +51,17 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - E por final, calcula o salario final do funcionário.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/salary-calculator
 
-## Square Root (SquareRoot)
-
-- Recebendo um número real qualquer, retorna sua raiz quadrada.
-- PORÉM, sem utilizar `java.lang.Math` ou qualquer biblioteca auxiliar.
-<p>link do exercício: https://exercism.org/tracks/java/exercises/square-root
-
 ## Space Age (SpaceAge)
 
 - Dada uma idade em segunos, pode se calcular o quão velho alguém seria nos oito planetas do sistema solar.
 - Há uma função para cada planeta, cada uma retornando um `double` como resposta.
 - <p>link do exercício: https://exercism.org/tracks/java/exercises/space-age
+
+## Square Root (SquareRoot)
+
+- Recebendo um número real qualquer, retorna sua raiz quadrada.
+- PORÉM, sem utilizar `java.lang.Math` ou qualquer biblioteca auxiliar.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/square-root
 
 # Técnologias usadas:
 
