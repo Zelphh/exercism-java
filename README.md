@@ -8,6 +8,16 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 
 # Exercícios: 
 
+## Grains (Grains)
+
+- Calcula o número de grãos de trigo em um tabuleiro de xadrez, sabendo que o número dobra a cada quadrado.
+- O exercício requisita duas funções, porém, como melhoria eu adicionei uma terceira.
+  - `grainsOnSquare`: retorna a quantidade de grãos em um quadrado específico;
+  - `grainsOnBoard`: retorna a quantidade total de grãos no tabuleiro;
+  - `grainsOnBoardUntilSquare`: retorna a quantidade total de grãos no tabuleiro até determinado quadrado.
+- OBS: Todas as função retornam um `BigInteger`.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/grains
+
 ## Hello World (Greeter)
 
 - Exercício classico! Apenas uma função que retorne a String `"Hello, World!"`.
