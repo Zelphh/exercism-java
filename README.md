@@ -8,6 +8,12 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 
 # Exercícios: 
 
+## Armstrong Numbers (ArmstrongNumbers)
+
+- Dado um número inteiro, verifica se ele é um número de Armstrong.
+- Retorna `true` se ele for, e caso contrário retorna `false`.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/armstrong-numbers
+
 ## Grains (Grains)
 
 - Calcula o número de grãos de trigo em um tabuleiro de xadrez, sabendo que o número dobra a cada quadrado.
