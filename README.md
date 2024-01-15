@@ -14,6 +14,13 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - Retorna `true` se ele for, e caso contrário retorna `false`.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/armstrong-numbers
 
+## Darts (Darts)
+
+- A função retorna os pontos ganhos em um único lance de um jogo de Dardos.
+- Recebe uma cordenada (x, y) em `Double`, e verifica o lugar em que o dardo caiu.
+- Pode retornar uma pontuação de 10, 5, 1 e 0 pontos.
+<p>link do exercício: https://exercism.org/tracks/java/exercises/darts
+
 ## Grains (Grains)
 
 - Calcula o número de grãos de trigo em um tabuleiro de xadrez, sabendo que o número dobra a cada quadrado.
