@@ -84,6 +84,12 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 - E por final, calcula o salario final do funcionário.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/salary-calculator
 
+## Secrets (Secrets)
+
+- O exercício requer que sejam criadas funções para ajudar a decifrar uma mensagem
+- Utilizando de manipulação de bites, as funções retornam um `int` como resultado
+<p>link do exercício: https://exercism.org/tracks/java/exercises/secrets
+
 ## Space Age (SpaceAge)
 
 - Dada uma idade em segunos, pode se calcular o quão velho alguém seria nos oito planetas do sistema solar.
