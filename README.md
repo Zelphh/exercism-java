@@ -73,8 +73,8 @@ Este repositório armazena a maioria dos exercícios que eu já fiz do site "Exe
 ## Raindrops (RaindropConverter)
 
 - Converte um número natural (1, 2, 3, ...) em uma `String` que contenha sons de gotas de chuva.
-- Cada som é correspondente a certos fatores do número.
-- Se o número não se encaixar em nenhum fato, a função apenas retorna o próprio número.
+- Cada som é correspondente a certos fatores do número(Se é divisivel por 5 e/ou 7 e etc).
+- Se o número não se encaixar em nenhum fator, a função apenas retorna o próprio número.
 <p>link do exercício: https://exercism.org/tracks/java/exercises/raindrops
 
 ## Salary Calculator (SalaryCalculator)
